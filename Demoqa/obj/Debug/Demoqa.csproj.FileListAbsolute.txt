@@ -1,0 +1,11 @@
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\bin\Debug\Demoqa.exe.config
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\bin\Debug\Demoqa.exe
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\bin\Debug\Demoqa.pdb
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\bin\Debug\WebDriver.dll
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\obj\Debug\Demoqa.csproj.AssemblyReference.cache
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\obj\Debug\Demoqa.csproj.SuggestedBindingRedirects.cache
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\obj\Debug\Demoqa.csproj.CoreCompileInputs.cache
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\obj\Debug\Demoqa.csproj.CopyComplete
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\obj\Debug\Demoqa.exe
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\obj\Debug\Demoqa.pdb
+F:\Education\Bassetti Training\Testing\Practice\Demoqa\Demoqa\bin\Debug\WebDriver.Support.dll
